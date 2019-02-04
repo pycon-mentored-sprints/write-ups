@@ -58,3 +58,6 @@ maintainers and developers attending PyCon to participate in this mentored sprin
 The call for attendees will also open on the  **8th of February** and we encourage anyone interested to attend.
 If you are wondering if this event is for you: it definitely is and we would love to have you taking part in this sprint.
 
+## When is the mentored sprint?
+
+This mentored sprint will take place Saturday, May 4th, 2019 for a period of 4 hours. Room is TBA.
