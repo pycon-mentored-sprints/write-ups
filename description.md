@@ -12,26 +12,27 @@ We also recognize that some groups are traditionally underrepresented in the ope
 them in their open source path.
 For these reasons, we are running the first ever PyCon mentored sprints for individuals from underrepresented groups willing to start contributing to Python projects. This event will provide a supportive, friendly, and safe environment for all the attendees and partner open source projects.
 
-On the other hand, we are seeking to work with a number of Python projects and their maintainers interested in providing mentorship
-to these individuals. We will, as well provide guidance and advise on how to prepare the projects for the day and to better serve a diverse range of contributors.
+Moreover, we are seeking to work with a number of Python projects and their maintainers interested in providing mentorship
+to these individuals. We will, as well provide guidance and advise on how to prepare the projects for the day and to better 
+serve a diverse range of contributors.
 
-## Why do we need a mentored sprint when we already run sprints within  PyCon?
+## Why do we need a mentored sprint when we already run sprints within PyCon?
 
-The PyCon sprints certainly offer a great opportunity to get contributors and developers together and to squash a number of bugs in a relatively short period of time. However, with this happening at the end of the event many people, particularly less experienced developers, are not able to stay around for this additional time, or cannot easily justify attending an event for an extra day or two. In addition, a good amount of the people that attend the sprints are often comfortable doing so and in many cases have made multiple contributions to open source before or are, in fact, developers or maintainers of open source projects.  
+The PyCon sprints certainly offer a great opportunity to get contributors and developers together and to squash a number of bugs in a relatively short period of time. However, with this happening at the end of the event many people, particularly less experienced developers, are not able to stay around for this additional time, or cannot easily justify attending an event for an extra day or two. In addition, a good amount of the people that attend the sprints are often comfortable doing so and in many cases have made multiple contributions to open source before or are, in fact, developers or maintainers of open source projects.
 
-This mentored sprint will provide the attendees with a supportive environment in which they can learn, collaborate, expand 
-their network, and celebrate their victories at the end of it.
+This mentored sprint focuses on providing less experienced developers a supportive environment in which they can learn, 
+collaborate, expand their network, and celebrate their victories at the end of it.
 
-Also, it will be a good opportunity for a number of open source projects to get some practical advise around inclusion and
-how to serve a global and diverse pool of contributors.
+Furthermore, it serves as a great opportunity for a number of open source projects to get some practical advise around 
+inclusion and how to serve a global and diverse pool of contributors.
 
 
 ## What projects will you be sprinting on?
 
 PyCon US is the biggest Python conference organized every year, thousands of developers, teachers, maintainers, and aficionados attend the event every year. As such it provides a unique opportunity to bring together creators, 
-maintainers, and users for a few days. 
+maintainers, and users for a few days.
 
-By running similar events in smaller conferences we have learned that the attendees (and projects) get much more out of it by having maintainers, organizers, and attendees working together. This way the maintainers of a certain package can provide directed, effective and in-person mentoring to a group of individuals, and the attendees feel more confident and usually leave with a high sense of accomplishment. 
+By running similar events in smaller conferences we have learned that the attendees (and projects) get much more out of it by having maintainers, organizers, and attendees working together. This way the maintainers of a certain package can provide directed, effective and in-person mentoring to a group of individuals, and the attendees feel more confident and usually leave with a high sense of accomplishment.
 
 
 ## Getting involved
@@ -40,6 +41,5 @@ To select the projects we will be sprinting on we will open a global call on the
 maintainers and developers attending PyCon to participate in this mentored sprint.
 
 
-The call for attendees will also open on the  **8th of February** and we encourage anyone interested to attend.
+The call for attendees will also open on the **8th of February** and we encourage anyone interested to attend.
 If you are wondering if this event is for you: it definitely is and we would love to have you taking part in this sprint.
-
