@@ -60,4 +60,4 @@ If you are wondering if this event is for you: it definitely is and we would lov
 
 ## When is the mentored sprint?
 
-This mentored sprint will take place Saturday, May 4th, 2019 for a period of 4 hours. Room is TBA.
+This mentored sprint will take place Saturday, May 4th, 2019 from 2:35pm to 6:30pm in room 25C.
