@@ -32,16 +32,16 @@ By running similar events in smaller conferences we have learned that the attend
 ### Open Source projects
 
 The call for applications for projects will be open from the **8th of February 2019**  to the **14th of March 2019** and  we encourage
-maintainers and developers attending PyCon to participate in this mentored sprint. 
+maintainers and developers of any package attending PyCon to participate in this mentored sprint. 
 
-Please use the following link to participate: 
+Please use the following link to participate: [https://docs.google.com/forms/d/e/1FAIpQLSd3D0BvnhgLRbtK2LOC-aAAkvZt484RCpwY0lpFdsFljEy9ig/viewform?usp=sf_link](https://docs.google.com/forms/d/e/1FAIpQLSd3D0BvnhgLRbtK2LOC-aAAkvZt484RCpwY0lpFdsFljEy9ig/viewform?usp=sf_link)
 
 ### Contributors
 
-The call for attendees will also open on the **8th of February** and close on the **14th of March 2019** and we encourage anyone interested to attend.
+The call for contributors (individuals willing to participate in the sprint) will also open on the **8th of February** and close on the **14th of March 2019** and we encourage anyone interested to attend.
 **If you are wondering if this event is for you: it definitely is and we would love to have you taking part in this sprint.**
 
-Please use the following link to take part in the sprint:
+Please use the following link to take part in the sprint: [https://docs.google.com/forms/d/e/1FAIpQLSfmUDvXXHRgkBpYcHpy6O3txHEeLihz6g7hlXHThlLJMJ2zig/viewform?usp=sf_link](https://docs.google.com/forms/d/e/1FAIpQLSfmUDvXXHRgkBpYcHpy6O3txHEeLihz6g7hlXHThlLJMJ2zig/viewform?usp=sf_link)
 
 ## When is the mentored sprint?
 
