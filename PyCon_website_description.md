@@ -51,6 +51,38 @@ This mentored sprint will take place on Saturday, May 4th, 2019 from 2:35pm to 6
 
 If you would like to contact the organizers for any business related to the mentored sprints please send us an email to nwuk@pyladies.com
 
+## Projects that have signed up
+
+Thank you to open source maintainers and mentors who have signed up and participating in this mentored sprint!
+
+### CPython
+
+Issue tracker: https://bugs.python.org
+Repo: https://github.com/python/cpython
+Contributing Guide: https://devguide.python.org
+Mentors: Python core developers (Carol Willing, Victor Stinner, Yury Selivanov, Petr Viktorin, Pablo Galindo Salgado, Emily Morehouse)
+
+### Bowler/ AsyncIO libraries
+
+Issue tracker: https://github.com/facebookincubator/bowler/issues
+Repo: https://pybowler.io/
+Contributing Guide: https://github.com/facebookincubator/Bowler/blob/master/CONTRIBUTING.md
+Mentors: John Reese
+
+### folium
+
+Issue tracker: https://bugs.python.org
+Repo: https://github.com/python-visualization/folium
+Contributing Guide: https://github.com/python-visualization/folium/blob/master/.github/CONTRIBUTING.md
+Mentors: Filipe Fernandes
+
+### TensorFlow
+
+Issue tracker: http://www.github.com/tensorflow/tensorflow/issues
+Repo: http://www.github.com/tensorflow/tensorflow
+Contributing Guide: https://github.com/tensorflow/tensorflow/blob/master/CONTRIBUTING.md
+Mentors: Paige Bailey
+
 ## About the organisers
 
 - [Tania Allard](https://twitter.com/ixek) is the founder and organiser of PyLadies NorthWest UK and contributor to and maintainer of a number of open source projects. 
