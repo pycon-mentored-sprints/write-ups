@@ -83,6 +83,26 @@ Repo: http://www.github.com/tensorflow/tensorflow
 Contributing Guide: https://github.com/tensorflow/tensorflow/blob/master/CONTRIBUTING.md
 Mentors: Paige Bailey
 
+### Project Jupyter - JupterHub and Binder
+Issue tracker: https://github.com/jupyterhub/jupyterhub
+Repo: https://github.com/jupyterhub/jupyterhub
+Contributing guide: https://github.com/jupyterhub/jupyterhub
+Mentors: Carol Willing
+
+### Trio
+Issue tracker: https://github.com/python-trio/trio/issues
+Repo: https://github.com/python-trio/trio/issues
+Contributing guidelines: https://trio.readthedocs.io/en/latest/contributing.html
+Mentors: Nathaniel J. Smith
+
+
+### Trio
+Issue tracker: https://github.com/pypa/warehouse/issues
+Repo: https://github.com/pypa/warehouse/issues
+Contributing guidelines: https://github.com/pypa/warehouse/issues
+Mentors: https://github.com/pypa/warehouse/issues
+
+
 ## About the organisers
 
 - [Tania Allard](https://twitter.com/ixek) is the founder and organiser of PyLadies NorthWest UK and contributor to and maintainer of a number of open source projects. 
