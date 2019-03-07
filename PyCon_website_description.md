@@ -95,7 +95,6 @@ Repo: https://github.com/python-trio/trio/issues
 Contributing guidelines: https://trio.readthedocs.io/en/latest/contributing.html
 Mentors: Nathaniel J. Smith
 
-
 ### Trio
 Issue tracker: https://github.com/pypa/warehouse/issues
 Repo: https://github.com/pypa/warehouse/issues
