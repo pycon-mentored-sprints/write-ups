@@ -1,0 +1,31 @@
+Subject: You’re attending the mentored sprint at PyCon US!
+
+{Full name},
+
+Thank you for signing up to the mentored sprint at PyCon US. We’re pleased to welcome you and
+help you contribute to open source.
+
+The mentored sprint will take place on **Saturday, May 4th 2:30 PM - 6:30 PM. Room 25C**
+
+Some useful information:
+
+- The mentored sprint is organized as part of PyCon US. You will need to be registered
+  for PyCon in order to attend the mentored sprint. If you have not registered, please do
+  so as soon as possible, because PyCon is a sell out year after year.
+  
+- We’re excited to share that 11 open source projects have signed up to mentor! They have
+  prepared a list of beginner friendly issues and contributing guidelines. Please check out the
+ list of projects here: https://us.pycon.org/2019/hatchery/mentoredsprints/
+
+- Bring your own laptop. Setting up local environment can be time consuming, and the steps
+  can vary from one project to another. We recommend that you check out the contributing
+  guidelines of the project that you’re interested in, and pre-install the requirements
+  before coming to the sprint. You should also install your favorite IDE or text editor.
+
+By attending the mentored sprint at PyCon, you are also accepting to uphold PyCon and
+The PSF’s code of conduct. Please take a moment to read it through at https://us.pycon.org/2019/about/code-of-conduct/
+
+Thank you again for signing up, and see you soon in Cleveland! Please do not
+hesitate to reach us if you have additional questions.
+
+Tania, Nina, Nikoleta & Mariatta
