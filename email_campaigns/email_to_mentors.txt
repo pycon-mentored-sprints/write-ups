@@ -21,7 +21,7 @@ Some useful information:
 - We understand that setting up local environment can be time consuming, and the steps
   can vary from one project to another. To help the event more successful, we recommend
   that you include detailed setup instruction in your project's contributing guideline by
-  **April 26th**. This will give the attendees enough time to get set up before PyCon.
+  **April 25th**. This will give the attendees enough time to get set up before PyCon.
 
 - We also recommend that you prepare at least 5 beginner-friendly issues to be worked
   on during the sprint. Here are some ideas to get you started:
