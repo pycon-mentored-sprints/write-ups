@@ -37,7 +37,8 @@ Some useful information:
     issue, whatever style you follow).
 
 By attending the mentored sprint at PyCon, you are also accepting to uphold PyCon and
-PSF’s code of conduct. Please take a moment to read it through at https://us.pycon.org/2019/about/code-of-conduct/
+the PSF’s code of conduct. Please take a moment to read it through at
+https://us.pycon.org/2019/about/code-of-conduct/
 
 Thank you again for your time to mentor! We are grateful for your work in open source and Python.
 See you soon in Cleveland! Please do not hesitate to reach us if you have additional questions
