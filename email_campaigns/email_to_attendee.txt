@@ -15,7 +15,7 @@ Some useful information:
   
 - We’re excited to share that 11 open source projects have signed up to mentor! They have
   prepared a list of beginner friendly issues and contributing guidelines. Please check out the
-  list of projects here: https://us.pycon.org/2019/hatchery/mentoredsprints/ 
+  list of projects here: https://mentored-sprint-for-diverse-beginners.readthedocs.io/projects_list.html
 
 - Bring your own laptop. Setting up your local environment can be time consuming,
   and the step can vary from one project to another. We recommend that you check out the
