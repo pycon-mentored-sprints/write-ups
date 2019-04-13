@@ -7,6 +7,11 @@ We’re pleased to welcome you to the sprint.
 
 The mentored sprint will take place on **Saturday, May 4th 2:30 PM - 6:30 PM. Room 25C**
 
+We have created the following online documentation: https://mentored-sprint-for-diverse-beginners.readthedocs.io/mentor_resources.html
+
+If you have additional resources that can be helpful to other mentors, we welcome your
+suggestion and pull request.
+
 Some useful information:
 
 - The mentored sprint is organized as part of PyCon US. You will need to be registered
