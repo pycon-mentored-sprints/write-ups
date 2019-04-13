@@ -24,7 +24,7 @@ Some useful information:
   can help. We have also requested each of the projects that signed up to have their
   contributing guidelines up to date by *April 26th*.
 
-We have created the following onlie documetation: https://mentored-sprint-for-diverse-beginners.readthedocs.io/contributor_resources.html to help you prepare for the sprint.
+We have created the following onlie documentation: https://mentored-sprint-for-diverse-beginners.readthedocs.io/contributor_resources.html to help you prepare for the sprint.
 
 Additional pre-requisites:
 
