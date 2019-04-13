@@ -17,7 +17,7 @@ Some useful information:
   prepared a list of beginner friendly issues and contributing guidelines. Please check out the
   list of projects here: https://us.pycon.org/2019/hatchery/mentoredsprints/ 
 
-- Bringing your own laptop. Setting up local environment can be time consuming,
+- Bring your own laptop. Setting up your local environment can be time consuming,
   and the step can vary from one project to another. We recommend that you check out the
   contributing guidelines of the project that you’re interested in, and pre-install the
   requirements before coming to the sprint. If you're stuck in any way, let us know so we
