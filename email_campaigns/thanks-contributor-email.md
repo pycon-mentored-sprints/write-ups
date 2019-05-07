@@ -18,9 +18,11 @@ We are including an anonymous survey to hear your thoughts on what we can do eve
 
 Give Feedback: http://bit.ly/contributors-feedback-mentoredsprints
 
-# Share your success story
+# Thanks to mentors
 
-Celebrate success by using the [#mentoredsprint #pycon2019](https://twitter.com/search?q=%23mentoredsprint%20%23pycon2019&src=typd) hashtag on Twitter.
+We're thankful to our mentors for volunteering their time and sharing their knowledge
+and passion with all of us. Please take a moment to give them a shout out and celebrate
+success using the [#mentoredsprint #pycon2019](https://twitter.com/search?q=%23mentoredsprint%20%23pycon2019&src=typd) hashtag on Twitter.
 
 # Thanks to y'all
 
