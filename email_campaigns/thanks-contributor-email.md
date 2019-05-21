@@ -10,13 +10,21 @@ all learning and contributing to open source during the sprint, and we
 hope you've been inspired to continue contributing. The Python community is better
 because of you 💜
 
-This is our first time organizing the mentored sprint, and numerous people
-have asked when will we do it again! Before we can get to that, we'd like to hear
+This is our first time organizing the mentored sprint and numerous people
+have asked when will we do it again! Before we can get to that we'd like to hear
 about your experience as a new contributor at the sprint.
 
-We are including an anonymous survey to hear your thoughts on what we can do even better next time. 
+We are including an anonymous survey to hear your thoughts on what we can do even
+better next time. 
 
-Give Feedback: http://bit.ly/contributors-feedback-mentoredsprints
+**Give Your Feedback**: http://bit.ly/contributors-feedback-mentoredsprints
+
+# Reflections
+
+We're aware of several issues occurred during the mentored sprint, such as late
+start, not having power strips in the room, and certain projects didn't have
+adequate interest from contributors. We'll be thinking on how to improve on these
+next year.
 
 # Thanks to mentors
 
@@ -24,14 +32,17 @@ We're thankful to our mentors for volunteering their time and sharing their know
 and passion with all of us. Please take a moment to give them a shout out and celebrate
 success using the [#mentoredsprint #pycon2019](https://twitter.com/search?q=%23mentoredsprint%20%23pycon2019&src=typd) hashtag on Twitter.
 
-# Thanks to y'all
+The list of projects and mentors can be found [here](https://mentored-sprint-for-diverse-beginners.readthedocs.io/projects_list.html)
+
+# Thank you, everyone
 
 The mentored sprint for diverse beginners was a great event only because you showed
-up and were the best version of yourself. Thanks for contributing to the community!
+up and were the best version of yourself. Thanks for contributing and volunteering.
 
-# Thanks to PyCon staff and The PSF
+# Thanks to PyCon staff and The PSF, and PyCon volunteers
 
-We want to extend another big thank you to PyCon Hatchery committee, PyCon staff members
-and The PSF for their support in making the Mentored Sprint for Diverse Beginners a success.
+We want to extend another big thank you to PyCon Hatchery committee, PyCon staff members, Git
+Helpdesk volunteers, and The PSF for their support in making the Mentored Sprint
+for Diverse Beginners a success.
 
 From Tania, Nina, Nikoleta & Mariatta
