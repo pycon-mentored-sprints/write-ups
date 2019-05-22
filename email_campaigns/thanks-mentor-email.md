@@ -13,8 +13,9 @@ This is our first time organizing the mentored sprint and numerous people
 have asked when will we do it again! Before we can get to that we'd like to hear
 about your experience as a project mentor.
 
-We are including an anonymous survey to hear your thoughts on what we can do even
-better next time. 
+Your feedback is invaluable to improving future iterations of this program.
+Please take a few moments to share your thoughts and let us know what
+improvements we can make to provide an even better experience for participants.
 
 **Give Your Feedback**: http://bit.ly/mentors-feedback-mentoredsprints
 
