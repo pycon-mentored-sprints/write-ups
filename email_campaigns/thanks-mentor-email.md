@@ -20,7 +20,7 @@ better next time.
 
 # Reflections
 
-We're aware of several issues occurred during the mentored sprint, such as late
+We're aware of several issues that occurred during the mentored sprint, such as a late
 start, not having power strips in the room, and certain projects didn't have
 adequate interest from contributors. We'll be thinking on how to improve on these
 next year.
