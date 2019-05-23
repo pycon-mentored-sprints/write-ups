@@ -46,4 +46,9 @@ We want to extend another big thank you to PyCon Hatchery committee, PyCon staff
 Helpdesk volunteers, and The PSF for their support in making the Mentored Sprint
 for Diverse Beginners a success.
 
+# Stay in touch
+
+To get updated about future mentored sprint for diverse beginners events, you
+can sign up to our low traffic mailing-list: http://eepurl.com/gshehT.
+
 From Tania, Nina, Nikoleta & Mariatta
