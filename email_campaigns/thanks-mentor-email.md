@@ -44,7 +44,7 @@ for Diverse Beginners a success.
 
 # Stay in touch
 
-To get updated about future mentored sprint for diverse beginners events, you
+To get updates about future mentored sprint for diverse beginners events, you
 can sign up to our low traffic mailing-list: http://eepurl.com/gshehT.
 
 From Tania, Nina, Nikoleta & Mariatta
