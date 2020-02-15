@@ -4,10 +4,11 @@
 
 ## TL;DR
 
-🎉✨ The mentored sprints for diverse community members are back for PyCon US 2020 🎉✨
+🎉✨ The mentored sprints for diverse community members are back for PyCon US 2020 ✨🎉
 
-- **When**: Friday 17th April 2020 during the main PyCon session **Room 321**
+- **When**: **Friday 17th April 2020** during the main PyCon session **Room 321**
 - **Time**: TBC
+- **Applications timeline**: **17th of February 2020** to **20th of March 2020**
 
 📝 Apply to be a mentor: <https://docs.google.com/forms/d/e/1FAIpQLSfV4eiCDfPZO62_iZ_XEZJxbS5wrCfc8tHjfh4M04cF92XcDg/viewform?usp=sf_link>
 
@@ -88,5 +89,8 @@ Thank you to open source maintainers and mentors who signed up and participating
 
 ## About the organisers
 
-- [Tania Allard](https://twitter.com/ixek) is a Senior Cloud Advocate at Microsoft focusing on Machine Learning, scientific computing, research and open source. She is also the founder and organiser of PyLadies NorthWest UK and contributor to and maintainer of a number of open source projects.
+- [Tania Allard](https://twitter.com/ixek). Tania is a Senior Cloud Advocate at Microsoft focusing on Machine Learning, scientific computing, research and open source. She is also the founder and organiser of PyLadies NorthWest UK and contributor to and maintainer of a number of open source projects.
 - [Nina Zakharenko](https://twitter.com/nnja). Nina is a Principal Cloud Developer Advocate at Microsoft, focusing on Python. Before joining Microsoft, she was a Senior Software Engineer with over a decade of experience writing software for companies like Reddit, Meetup, and HBO. In her spare time, she enjoys snowboarding, hiking, and tinkering with wearable electronics from her home base in San Diego, CA.
+- [Cheuk Ting Ho](https://twitter.com/cheukting_ho). Cheuk is a Developer advocate at Terminus DB and one of the co-organisers of AI Club for Gender Minorities and Python Sprints in London.
+- [Valery Briz](https://twitter.com/valerybriz). Valery is a software engineer, the co-founder of Python Guatemala and co-organiser of PyLadies MExico City.
+- [Katia Lira](https://twitter.com/lakatialira). Katia is a DEFNADO board member as well as one of the co-organisers of PyCon Latam and Django CDMX.
