@@ -1,6 +1,23 @@
 # Mentored sprints for diverse beginners
 ## A newcomer’s introduction to contributing to an open source project
 
+## TL;DR
+
+We are running mentored sprints for diverse community members ✨
+**When**: Friday 17th April 2020 during the main PyCon session **Room 321**
+**Time**: TBC
+
+✨ Appply to be a mentor:
+✨ Appply to participate as a contributor (sprint on the day):
+
+If you are not a member of an underrepresented group of the community and want to take on the sprint we encourage you to bring someone from an underrepresented group with you.
+
+✨ Volunteer for our Git Helpdesk (4 volunteers needed): Help new contributors with git/GitHub, such as cloning repo, creating branch, committing, resolving merge conflict. 
+
+---
+
+## About the sprints
+
 Open source projects such as Python and its multiple stacks (web, scientific, etc.) are nothing but a collaborative effort from many community members. It is the constant involvement of the numerous maintainers, contributors, and users that make open source software sustainable and keeps the community as a whole going.
 
 Walking the path from user to collaborator, and thus contributing to an open source project, can sometimes be intimidating especially for newcomers. From a technical perspective, interacting with web-based hosting services (such as GitHub, GitLab, etc.), branching and opening pull requests can be overwhelming if these are not everyday actions of your workflow. The correctness of the code and potential bugs are other common obstacles and fears any newcomer might face. Not to mention the time and frustration accumulated over the task of finding a ‘beginner-friendly’ issue to work on.
@@ -18,7 +35,6 @@ The PyCon sprints certainly offer a great opportunity to get contributors and de
 This mentored sprint focuses on providing less experienced developers a supportive environment in which they can learn, collaborate, expand their network, and celebrate their victories at the end of it.
 
 Furthermore, it serves as a great opportunity for a number of open source projects to get some practical advise around inclusion and how to serve a global and diverse pool of contributors. And perhaps establish longer-term mentor-mentee or contributor relationships.
-
 
 ## What projects will you be sprinting on?
 
@@ -38,18 +54,18 @@ Please use the following link to participate: [https://docs.google.com/forms/d/e
 
 ### Contributors
 
-The call for contributors (individuals willing to participate in the sprint) will also open on the **8th of February** and close on the **14th of March 2019** and we encourage anyone interested to attend.
+The call for contributors (individuals willing to participate in the sprint) will also open on the **17th of February 2020** and close on the **20th of March 2020** and we encourage anyone interested to attend.
 **If you are wondering if this event is for you: it definitely is and we would love to have you taking part in this sprint.**
 
 Please use the following link to take part in the sprint: [https://docs.google.com/forms/d/e/1FAIpQLSfmUDvXXHRgkBpYcHpy6O3txHEeLihz6g7hlXHThlLJMJ2zig/viewform?usp=sf_link](https://docs.google.com/forms/d/e/1FAIpQLSfmUDvXXHRgkBpYcHpy6O3txHEeLihz6g7hlXHThlLJMJ2zig/viewform?usp=sf_link)
 
 ## When is the mentored sprint?
 
-This mentored sprint will take place on Saturday, May 4th, 2019 from 2:35pm to 6:30pm in room 25C.
+This mentored sprint will take place on Friday 17th April 2020 in room 321. The exact time is still to be confirmed within the next few days.
 
 ## Getting in touch
 
-If you would like to contact the organizers for any business related to the mentored sprints please send us an email to nwuk@pyladies.com
+If you would like to contact the organizers for any business related to the mentored sprints please send us an email to tania@pyladies.com
 
 ## Projects that have signed up
 
@@ -104,7 +120,5 @@ Mentors: https://github.com/pypa/warehouse/issues
 
 ## About the organisers
 
-- [Tania Allard](https://twitter.com/ixek) is the founder and organiser of PyLadies NorthWest UK and contributor to and maintainer of a number of open source projects. 
-- [Mariatta Wijaya](https://twitter.com/mariatta) is active in the open source community as a Python core developer and has contributed to various other projects. She also helps organize PyLadies Vancouver meetup and PyCascades conference.
-- [Nina Zakharenko](https://twitter.com/nnja). Nina is a Senior Cloud Developer Advocate at Microsoft, focusing on Python. Before joining Microsoft, she was a Senior Software Engineer with over a decade of experience writing software for companies like Reddit, Meetup, and HBO. In her spare time, she enjoys snowboarding, hiking, and tinkering with wearable electronics from her home base in Portland, OR. 
-- [Nikoleta Glynatsi](https://twitter.com/NikoletaGlyn) is a PhD student at the University of Cardiff. She is a member of PyData Cardiff, maintainer, and main developer or Arcas and the Axelrod Python library, respectively, coach for Django Girls and frequent volunteer for a number of PyCon events.
+- [Tania Allard](https://twitter.com/ixek) is the founder and organiser of PyLadies NorthWest UK and contributor to and maintainer of a number of open source projects.
+- [Nina Zakharenko](https://twitter.com/nnja). Nina is a Principal Cloud Developer Advocate at Microsoft, focusing on Python. Before joining Microsoft, she was a Senior Software Engineer with over a decade of experience writing software for companies like Reddit, Meetup, and HBO. In her spare time, she enjoys snowboarding, hiking, and tinkering with wearable electronics from her home base in San Diego, CA.
