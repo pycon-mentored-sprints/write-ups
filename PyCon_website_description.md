@@ -1,18 +1,21 @@
 # Mentored sprints for diverse beginners
+
 ## A newcomer’s introduction to contributing to an open source project
 
 ## TL;DR
 
-We are running mentored sprints for diverse community members ✨
-**When**: Friday 17th April 2020 during the main PyCon session **Room 321**
-**Time**: TBC
+🎉✨ The mentored sprints for diverse community members are back for PyCon US 2020 🎉✨
 
-✨ Appply to be a mentor:
-✨ Appply to participate as a contributor (sprint on the day):
+- **When**: Friday 17th April 2020 during the main PyCon session **Room 321**
+- **Time**: TBC
+
+📝 Apply to be a mentor: <https://docs.google.com/forms/d/e/1FAIpQLSfV4eiCDfPZO62_iZ_XEZJxbS5wrCfc8tHjfh4M04cF92XcDg/viewform?usp=sf_link>
+
+📝 Apply to participate as a contributor (sprint on the day): <https://docs.google.com/forms/d/e/1FAIpQLSfJiC-V6Jd7R0BKwLTIzbhkd3HbEejML4PLvtFL_PYGkUQ89g/viewform?usp=sf_link>
 
 If you are not a member of an underrepresented group of the community and want to take on the sprint we encourage you to bring someone from an underrepresented group with you.
 
-✨ Volunteer for our Git Helpdesk (4 volunteers needed): Help new contributors with git/GitHub, such as cloning repo, creating branch, committing, resolving merge conflict. 
+✨ Volunteer for our Git Helpdesk (4 volunteers needed): Help new contributors with git/GitHub, such as cloning repo, creating branch, committing, resolving merge conflict. **Sign-up coming soon**
 
 ---
 
@@ -47,12 +50,12 @@ By running similar events in smaller conferences we have learned that the attend
 
 ### Open Source projects
 
-The call for applications for projects will be open from the **8th of February 2019**  to the **14th of March 2019** and  we encourage
+The call for applications for projects will be open from the **17th of February 2020** and close on the **20th of March 2020** and  we encourage
 maintainers and developers of any package attending PyCon to participate in this mentored sprint. 
 
-Please use the following link to participate: [https://docs.google.com/forms/d/e/1FAIpQLSd3D0BvnhgLRbtK2LOC-aAAkvZt484RCpwY0lpFdsFljEy9ig/viewform?usp=sf_link](https://docs.google.com/forms/d/e/1FAIpQLSd3D0BvnhgLRbtK2LOC-aAAkvZt484RCpwY0lpFdsFljEy9ig/viewform?usp=sf_link)
+Please use the following link to participate: [https://docs.google.com/forms/d/e/1FAIpQLSfV4eiCDfPZO62_iZ_XEZJxbS5wrCfc8tHjfh4M04cF92XcDg/viewform?usp=sf_link](https://docs.google.com/forms/d/e/1FAIpQLSfV4eiCDfPZO62_iZ_XEZJxbS5wrCfc8tHjfh4M04cF92XcDg/viewform?usp=sf_link)
 
-### Contributors
+### Contributors - people sprinting on the day
 
 The call for contributors (individuals willing to participate in the sprint) will also open on the **17th of February 2020** and close on the **20th of March 2020** and we encourage anyone interested to attend.
 **If you are wondering if this event is for you: it definitely is and we would love to have you taking part in this sprint.**
@@ -67,58 +70,23 @@ This mentored sprint will take place on Friday 17th April 2020 in room 321. The 
 
 If you would like to contact the organizers for any business related to the mentored sprints please send us an email to tania@pyladies.com
 
-## Projects that have signed up
+## Projects that took part in 2019
 
-Thank you to open source maintainers and mentors who have signed up and participating in this mentored sprint!
+Thank you to open source maintainers and mentors who signed up and participating in the 2019 mentored sprint!
 
-### CPython
-
-Issue tracker: https://bugs.python.org
-Repo: https://github.com/python/cpython
-Contributing Guide: https://devguide.python.org
-Mentors: Python core developers (Carol Willing, Victor Stinner, Yury Selivanov, Petr Viktorin, Pablo Galindo Salgado, Emily Morehouse)
-
-### Bowler/ AsyncIO libraries
-
-Issue tracker: https://github.com/facebookincubator/bowler/issues
-Repo: https://pybowler.io/
-Contributing Guide: https://github.com/facebookincubator/Bowler/blob/master/CONTRIBUTING.md
-Mentors: John Reese
-
-### folium
-
-Issue tracker: https://bugs.python.org
-Repo: https://github.com/python-visualization/folium
-Contributing Guide: https://github.com/python-visualization/folium/blob/master/.github/CONTRIBUTING.md
-Mentors: Filipe Fernandes
-
-### TensorFlow
-
-Issue tracker: http://www.github.com/tensorflow/tensorflow/issues
-Repo: http://www.github.com/tensorflow/tensorflow
-Contributing Guide: https://github.com/tensorflow/tensorflow/blob/master/CONTRIBUTING.md
-Mentors: Paige Bailey
-
-### Project Jupyter - JupterHub and Binder
-Issue tracker: https://github.com/jupyterhub/jupyterhub
-Repo: https://github.com/jupyterhub/jupyterhub
-Contributing guide: https://github.com/jupyterhub/jupyterhub
-Mentors: Carol Willing
-
-### Trio
-Issue tracker: https://github.com/python-trio/trio/issues
-Repo: https://github.com/python-trio/trio/issues
-Contributing guidelines: https://trio.readthedocs.io/en/latest/contributing.html
-Mentors: Nathaniel J. Smith
-
-### Trio
-Issue tracker: https://github.com/pypa/warehouse/issues
-Repo: https://github.com/pypa/warehouse/issues
-Contributing guidelines: https://github.com/pypa/warehouse/issues
-Mentors: https://github.com/pypa/warehouse/issues
-
+- [CPython](https://github.com/python/cpython)
+- [Bowler/ AsyncIO libraries](https://pybowler.io/)
+- [Folium](https://github.com/python-visualization/folium)
+- [TensorFlow](http://www.github.com/tensorflow/tensorflow)
+- [Project Jupyter - JupterHub and Binder](https://github.com/jupyterhub/jupyterhub)
+- [Trio](https://github.com/python-trio/trio/issues)
+- [DIB Lab - UC Davis](https://sourmash.readthedocs.io/)
+- [The Python Package Index - PyPI](https://github.com/pypa/warehouse)
+- [CircuitPython](https://github.com/adafruit/circuitpython)
+- [GNU Mailman](https://gitlab.com/mailman)
+- [Sphinxserve](https://github.com/mzdaniel/sphinxserve)
 
 ## About the organisers
 
-- [Tania Allard](https://twitter.com/ixek) is the founder and organiser of PyLadies NorthWest UK and contributor to and maintainer of a number of open source projects.
+- [Tania Allard](https://twitter.com/ixek) is a Senior Cloud Advocate at Microsoft focusing on Machine Learning, scientific computing, research and open source. She is also the founder and organiser of PyLadies NorthWest UK and contributor to and maintainer of a number of open source projects.
 - [Nina Zakharenko](https://twitter.com/nnja). Nina is a Principal Cloud Developer Advocate at Microsoft, focusing on Python. Before joining Microsoft, she was a Senior Software Engineer with over a decade of experience writing software for companies like Reddit, Meetup, and HBO. In her spare time, she enjoys snowboarding, hiking, and tinkering with wearable electronics from her home base in San Diego, CA.
