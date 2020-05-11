@@ -1,4 +1,4 @@
-![banner](https://github.com/pycon-mentored-sprints/digital-assets/blob/master/social/sprints-banner.png?raw=true)
+![banner](https://github.com/pycon-mentored-sprints/digital-assets/blob/master/social/sprints-banner-online.png?raw=true)
 
 ## A newcomer’s introduction to contributing to an open-source project
 
@@ -6,17 +6,19 @@
 
 🎉✨ The mentored sprints for diverse community members are back for PyCon US 2020 ✨🎉
 
-- **When**: **Friday 17th April 2020** during the main PyCon session **Room 321**
-- **Time**: TBC
-- **Applications timeline**: **17th of February 2020** to **20th of March 2020**
+Now ONLINE!!!
 
-📝 Apply to be a mentor: <https://docs.google.com/forms/d/e/1FAIpQLSfV4eiCDfPZO62_iZ_XEZJxbS5wrCfc8tHjfh4M04cF92XcDg/viewform?usp=sf_link>
+- **When**: **16th-17th May 2020** online!
 
-📝 Apply to participate as a contributor (sprint on the day): <https://docs.google.com/forms/d/e/1FAIpQLSfJiC-V6Jd7R0BKwLTIzbhkd3HbEejML4PLvtFL_PYGkUQ89g/viewform?usp=sf_link>
+- Americas + Europe frienldy slot: <https://www.timeanddate.com/worldclock/fixedtime.html?msg=Mentored+Sprints+-+slot+1&iso=20200516T09&p1=224&ah=4>
+- APAC friendly slot: <https://www.timeanddate.com/worldclock/fixedtime.html?msg=Mentored+sprints+-+slot+2&iso=20200517T10&p1=240&ah=4>
 
-If you are not a member of an underrepresented group of the community and want to take on the sprint, we encourage you to bring someone from an underrepresented group with you.
 
-✨ Volunteer for our Git Helpdesk (4 volunteers needed): Help new contributors with git/GitHub, such as cloning repo, creating branch, committing, resolving merge conflicts. **Sign-up coming soon**
+📝 [Apply to be a mentor here](https://docs.google.com/forms/d/e/1FAIpQLSfV4eiCDfPZO62_iZ_XEZJxbS5wrCfc8tHjfh4M04cF92XcDg/viewform?usp=sf_lin)
+
+📝 [Apply to participate as a contributor (sprint on the day) here](https://forms.gle/cvRjYWM9bZYz4XU58)
+
+✨ Volunteer for our Git Helpdesk (4 volunteers needed): Help new contributors with git/GitHub, such as cloning repo, creating branch, committing, resolving merge conflicts. Sign up using the mentor form
 
 ---
 
@@ -51,25 +53,26 @@ By running similar events in smaller conferences, we have learned that the atten
 
 ### Open Source projects
 
-The call for applications for projects will be open from the **17th of February 2020** and close on the **20th of March 2020** and we encourage
+The call for applications for projects close on the **11th of May 2020** and we encourage
 maintainers and developers of any package attending PyCon to participate in this mentored sprint. 
 
-Please use the following link to participate: [https://docs.google.com/forms/d/e/1FAIpQLSfV4eiCDfPZO62_iZ_XEZJxbS5wrCfc8tHjfh4M04cF92XcDg/viewform?usp=sf_link](https://docs.google.com/forms/d/e/1FAIpQLSfV4eiCDfPZO62_iZ_XEZJxbS5wrCfc8tHjfh4M04cF92XcDg/viewform?usp=sf_link)
+Please use the following link to participate: [https://docs.google.com/forms/d/e/1FAIpQLSfV4eiCDfPZO62_iZ_XEZJxbS5wrCfc8tHjfh4M04cF92XcDg/viewform?usp=sf_lin](https://docs.google.com/forms/d/e/1FAIpQLSfV4eiCDfPZO62_iZ_XEZJxbS5wrCfc8tHjfh4M04cF92XcDg/viewform?usp=sf_lin)
 
 ### Contributors - people sprinting on the day
 
-The call for contributors (individuals willing to participate in the sprint) will also open on the **17th of February 2020** and close on the **20th of March 2020** and we encourage anyone interested to attend.
+The call for contributors (individuals willing to participate in the sprint) will remain open until the **11th of May 2020**and we encourage anyone interested to attend.
 **If you are wondering if this event is for you: it definitely is, and we would love to have you taking part in this sprint.**
 
-Please use the following link to take part in the sprint: [https://docs.google.com/forms/d/e/1FAIpQLSfmUDvXXHRgkBpYcHpy6O3txHEeLihz6g7hlXHThlLJMJ2zig/viewform?usp=sf_link](https://docs.google.com/forms/d/e/1FAIpQLSfmUDvXXHRgkBpYcHpy6O3txHEeLihz6g7hlXHThlLJMJ2zig/viewform?usp=sf_link)
+Please use the following link to take part in the sprint: <https://forms.gle/cvRjYWM9bZYz4XU58>
 
 ## When is the mentored sprint?
 
-This mentored sprint will take place on Friday 17th April 2020 in room 321. The exact time is still to be confirmed within the next few days.
+This mentored sprint will take place on 17th of May. The exact time is still to be confirmed within the next few days.
 
 ## Getting in touch
 
 If you would like to contact the organizers for any business related to the mentored sprints, please send us an email to tania@pyladies.com.
+Or follow us on Twitter [@MentoredSprints](https://www.twitter.com/MentoredSprints)!
 
 ## Projects that took part in 2019
 
