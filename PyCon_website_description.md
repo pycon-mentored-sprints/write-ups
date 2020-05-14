@@ -53,14 +53,14 @@ By running similar events in smaller conferences, we have learned that the atten
 
 ### Open Source projects
 
-The call for applications for projects close on the **11th of May 2020** and we encourage
+The call for applications for projects close on the **15th of May 2020** and we encourage
 maintainers and developers of any package attending PyCon to participate in this mentored sprint. 
 
 Please use the following link to participate: [https://docs.google.com/forms/d/e/1FAIpQLSfV4eiCDfPZO62_iZ_XEZJxbS5wrCfc8tHjfh4M04cF92XcDg/viewform?usp=sf_lin](https://docs.google.com/forms/d/e/1FAIpQLSfV4eiCDfPZO62_iZ_XEZJxbS5wrCfc8tHjfh4M04cF92XcDg/viewform?usp=sf_lin)
 
 ### Contributors - people sprinting on the day
 
-The call for contributors (individuals willing to participate in the sprint) will remain open until the **11th of May 2020**and we encourage anyone interested to attend.
+The call for contributors (individuals willing to participate in the sprint) will remain open until the **15th of May 2020**and we encourage anyone interested to attend.
 **If you are wondering if this event is for you: it definitely is, and we would love to have you taking part in this sprint.**
 
 Please use the following link to take part in the sprint: <https://forms.gle/cvRjYWM9bZYz4XU58>
@@ -98,3 +98,4 @@ We want to thank the source maintainers and mentors who signed up and participat
 - [Cheuk Ting Ho](https://twitter.com/cheukting_ho). Cheuk is a Developer advocate at Terminus DB and one of the co-organisers of AI Club for Gender Minorities and Python Sprints in London.
 - [Valery Briz](https://twitter.com/valerybriz). Valery is a software engineer, the co-founder of Python Guatemala and co-organiser of PyLadies Mexico City.
 - [Katia Lira](https://twitter.com/lakatialira). Katia is a DEFNADO board member as well as one of the co-organisers of PyCon Latam and Django CDMX.
+- [Zac Hatfield-Dodds](https://zhd.dev).  Zac is a cybernetics and computer science researcher at the Australian National University, and an enthusiastic open source community member and developer.  What remains of his free time is usually spent reading books, savoring chocolate, and camping in the bush.
